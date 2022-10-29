@@ -1,2 +1,3 @@
-# sky-stars
-# sky-stars
+# Sky-stars
+### `npm start`
+### `npm run build`
